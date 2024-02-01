@@ -10,7 +10,7 @@
 
 **Install the requirement.txt files**
 
-    pip install requirement.txt
+    pip install -r requirement.txt
 
 **Run the python shell**
 
