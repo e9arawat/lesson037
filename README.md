@@ -16,7 +16,7 @@
 
     python manage.py shell
 
-**Run the mehtods**
+**Run the methods**
 
 
 
